@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(226, 212, 212);
+ 
+}
+
+a:hover {
+  text-decoration: none;
+  color: #FFFFFFFF;
+}

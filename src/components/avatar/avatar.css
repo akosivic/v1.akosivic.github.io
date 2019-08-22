@@ -1,0 +1,46 @@
+.avatar {
+  vertical-align: middle;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.vertical-center-bottom{
+  margin: 0;
+  position: absolute;
+  top: 90%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.profile-description {
+  margin: 0;
+  text-align: left;
+ 
+}
+.social-media i {
+  font-size:30px;
+  padding-right: 10px;
+}
+.profile-description h3.small {
+  font-variant: small-caps;
+  font-size: 50px;
+  text-align: left;
+}
+
+
+
